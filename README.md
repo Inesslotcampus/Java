@@ -7,6 +7,7 @@
 - double = nombre à virgule + précis
 - float = nombre virgule - précis
 - boolean
+- final = constante
 
 
 ### constantes 
@@ -24,4 +25,8 @@ avec le super() dans les constructeurs enfant je peux récupérer les valeurs du
 
 __Une classe enfant a la même déclaration de méthode que sa classe parente mais avec des paramètres différents.__
 
+
+## interface
+
+__Super classe abstraite qui a des méthodes. Elle force une classe à avoir des méthodes.
  
