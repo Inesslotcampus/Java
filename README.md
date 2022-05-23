@@ -30,3 +30,20 @@ __Une classe enfant a la même déclaration de méthode que sa classe parente ma
 
 __Super classe abstraite qui a des méthodes. Elle force une classe à avoir des méthodes.
  
+ ## ArrayList  != tableau qui a une taille fixe, on ne peut pas modifier les valeurs existantes
+ 
+__ArrayList<ParametreType> nomList = new ArrayList<>();__
+ 
+ - Accéder à chaque élément -> get(index)
+ - Ajouter nouvel élément -> add(element, index)
+ - remplacer un élément -> set (element, index)
+ - supprimer un élément -> remove()
+ 
+ -taille = nomList.size
+ 
+ 
+ 
+ 
+ 
+ 
+ 
